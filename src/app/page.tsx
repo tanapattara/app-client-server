@@ -9,6 +9,9 @@ export default function Home() {
         <li>
           <a href="/starwar">Server Side Rendering</a>
         </li>
+        <li>
+          <a href="/weather">Search params</a>
+        </li>
       </ul>
     </>
   );
